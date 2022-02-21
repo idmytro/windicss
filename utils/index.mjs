@@ -137,7 +137,7 @@ function isFraction(amount) {
     return /^\d+\/\d+$/.test(amount);
 }
 function isSize(amount) {
-    return /^-?(\d+(\.\d+)?)+(rem|em|px|rpx|vh|vw|ch|ex)$/.test(amount);
+    return /^-?(\d+(\.\d+)?)+(rem|em|px|rpx|vh|vw|ch|ex|cm|in)$/.test(amount);
 }
 function isSpace(str) {
     return /^\s*$/.test(str);
