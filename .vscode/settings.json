@@ -6,5 +6,25 @@
     "typescriptreact",
     "vue"
   ],
-  "liveServer.settings.root": "/playground"
+  "liveServer.settings.root": "/playground",
+  "workbench.colorCustomizations": {
+    "activityBar.activeBackground": "#6c7a1b",
+    "activityBar.activeBorder": "#2eb9d1",
+    "activityBar.background": "#6c7a1b",
+    "activityBar.foreground": "#e7e7e7",
+    "activityBar.inactiveForeground": "#e7e7e799",
+    "activityBarBadge.background": "#2eb9d1",
+    "activityBarBadge.foreground": "#15202b",
+    "sash.hoverBorder": "#6c7a1b",
+    "statusBar.background": "#475012",
+    "statusBar.foreground": "#e7e7e7",
+    "statusBarItem.hoverBackground": "#6c7a1b",
+    "statusBarItem.remoteBackground": "#475012",
+    "statusBarItem.remoteForeground": "#e7e7e7",
+    "titleBar.activeBackground": "#475012",
+    "titleBar.activeForeground": "#e7e7e7",
+    "titleBar.inactiveBackground": "#47501299",
+    "titleBar.inactiveForeground": "#e7e7e799"
+  },
+  "peacock.color": "#475012"
 }
