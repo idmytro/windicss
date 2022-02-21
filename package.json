@@ -2,11 +2,11 @@
   "name": "windicss",
   "version": "3.4.4-idmytro",
   "description": "Next generation utility-first CSS framework.",
-  "main": "index.js",
-  "module": "index.mjs",
-  "types": "index.d.ts",
+  "main": "dist/index.js",
+  "module": "dist/index.mjs",
+  "types": "dist/index.d.ts",
   "bin": {
-    "windicss": "cli/index.js"
+    "windicss": "dist/cli/index.js"
   },
   "scripts": {
     "dev": "rollup -cw",
